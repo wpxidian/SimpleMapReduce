@@ -8,3 +8,4 @@ public interface Job {
 	void excute() throws NoSuchMethodException, SecurityException, IOException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, InterruptedException;
 
 }
+
